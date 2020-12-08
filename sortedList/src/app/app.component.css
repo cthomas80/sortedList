@@ -1,0 +1,17 @@
+
+.card{
+    width:300px;
+    padding: 20px;
+    height: 80px; 
+-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+background-color: #0c8397;
+}
+.card:hover{
+    width:350px;
+    padding: 20px;
+    height: 90px; 
+    background-color: coral;
+}
+.space{ margin-right: 30px; color:#ffffff}
